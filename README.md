@@ -31,3 +31,7 @@ The above code reads the VTT file, parses the data and returns an array of cues.
 * [TextTrack](https://developer.mozilla.org/en-US/docs/Web/API/TextTrack) 
 
 * [VTTCue interface](https://developer.mozilla.org/en-US/docs/Web/API/VTTCue)
+
+Contact Us
+--
+If you have any questions, please feel free to reach out to our Support team - support@assemblyai.com!
